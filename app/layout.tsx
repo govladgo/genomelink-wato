@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Lineage Wizard — Genomelink',
-  description: 'Auto-complete lineage assignments across your DNA match network',
+  title: 'WATO — What Are The Odds?',
+  description: 'Test relationship hypotheses against shared cM with endogamy adjustment',
 };
 
 export default function RootLayout({
